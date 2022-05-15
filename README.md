@@ -16,10 +16,10 @@ We also provide pre-trained model used in our paper under `/trained models`.
 
 ## Citation
 	@inproceedings{tran2022improving,
-  title={Improving Traffic Load Prediction with Multi-modality},
-  author={Tran, Khai Phan and Chen, Weitong and Xu, Miao},
-  booktitle={Australasian Joint Conference on Artificial Intelligence},
-  pages={254--266},
-  year={2022},
-  organization={Springer}
-}
+        title={Improving Traffic Load Prediction with Multi-modality},
+        author={Tran, Khai Phan and Chen, Weitong and Xu, Miao},
+        booktitle={Australasian Joint Conference on Artificial Intelligence},
+        pages={254--266},
+        year={2022},
+        organization={Springer}
+      }
