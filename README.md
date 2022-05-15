@@ -15,7 +15,6 @@ This dataset is the traffic load of the Coronation Drive in Brisbane. For inform
 We also provide pre-trained model used in our paper under `/trained models`.
 
 ## Citation
-`
 @inproceedings{tran2022improving,
   title={Improving Traffic Load Prediction with Multi-modality},
   author={Tran, Khai Phan and Chen, Weitong and Xu, Miao},
@@ -24,4 +23,3 @@ We also provide pre-trained model used in our paper under `/trained models`.
   year={2022},
   organization={Springer}
 }
-`
