@@ -3,7 +3,11 @@ This repository contains the source code and dataset for the paper: **Improving 
 
 ## Dataset
 Datasets used for developing models are provided under `/dataset`. 
-This dataset is the traffic load of the Coronation Drive in Brisbane. For information about the meaning of the column, please refer to [this website](https://www.data.brisbane.qld.gov.au/data/dataset/traffic-data-at-intersection-api).
+This dataset is the traffic load of the Coronation Drive in Brisbane, Australia. For information about the meaning of the column, please refer to [this website](https://www.data.brisbane.qld.gov.au/data/dataset/traffic-data-at-intersection-api).
+
+The data provided is pre-processed. Please contact author if you need the raw data.
+
+You can download raw data from [this website](https://www.data.brisbane.qld.gov.au/data/dataset/traffic-data-at-intersection-api) by using API. Note the data is in real-time.
 
 ## Files
 1. `main-models-training.ipynb`: main models development (CNN, RNN and LSTM)
