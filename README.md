@@ -12,7 +12,16 @@ This dataset is the traffic load of the Coronation Drive in Brisbane. For inform
 4. `visualizing-main-models.ipynb`: Visualizing the prediction from 3 main models
 
 ## Pre-trained model
-We also provide pre-trained model used in our paper under `/trained models`.
+We also provide pre-trained model used in our paper under folder `/trained models`.
+
+## Environments detail
+CUDA Version: 10.2  
+
+Nvidia GeForce RTX 2080 GPU
+
+Python 3.8.10
+
+Tensorflow 2.4.0
 
 ## Citation
 	@inproceedings{tran2022improving,
