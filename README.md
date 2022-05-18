@@ -4,18 +4,21 @@ This repository contains the source code and dataset for the paper: ***"Improvin
 Paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-97546-3_21).
 
 ## Dataset
-Datasets used for developing models are provided under `/dataset`. 
+Datasets used for developing models are provided under `/dataset`.
 This dataset is the traffic load of the Coronation Drive in Brisbane, Australia. For information about the meaning of the column, please refer to [this website](https://www.data.brisbane.qld.gov.au/data/dataset/traffic-data-at-intersection-api).
 
 The data provided is pre-processed. Please contact author if you need the raw data.
 
 You can download raw data from [this website](https://www.data.brisbane.qld.gov.au/data/dataset/traffic-data-at-intersection-api) by using API. Note the data is in real-time.
 
+`tweet_all_brisbane.csv` file contains the data retrieved from twitter used in this paper.
+
 ## Files
 1. `main-models-training.ipynb`: main models development (CNN, RNN and LSTM)
 2. `sentiment-classification-for-tweets-all-brisbane.ipynb`: Sentiment classification for Brisbane tweets
 3. `training-sentiment-analysis-model.ipynb`: Training sentiment classifier
 4. `visualizing-main-models.ipynb`: Visualizing the prediction from 3 main models
+5. `scraping-twitter.ipynb`: Collecting twitter data
 
 ## Pre-trained model
 We also provide pre-trained model used in our paper under folder `/trained models`.
