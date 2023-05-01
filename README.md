@@ -1,7 +1,5 @@
 # DM2T
-This repository contains the source code and dataset for the paper: ***"Improving Traffic Load Prediction with Multi-modality: A Case Study of Brisbane"***.
-
-Paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-97546-3_21).
+This repository contains the source code and dataset for the paper: [***"Improving Traffic Load Prediction with Multi-modality: A Case Study of Brisbane"***](https://link.springer.com/chapter/10.1007/978-3-030-97546-3_21).
 
 ## Dataset
 Datasets used for developing models are provided under `/dataset`.
